@@ -1,0 +1,20 @@
+E:\C#\Test_IT\TestAppIT\TestAppIT\bin\Debug\TestAppIT.exe.config
+E:\C#\Test_IT\TestAppIT\TestAppIT\bin\Debug\TestAppIT.exe
+E:\C#\Test_IT\TestAppIT\TestAppIT\bin\Debug\TestAppIT.pdb
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.csprojAssemblyReference.cache
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.Form1.resources
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.Properties.Resources.resources
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.csproj.GenerateResource.cache
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.csproj.CoreCompileInputs.cache
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.exe
+E:\C#\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.pdb
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\bin\Debug\TestAppIT.exe.config
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\bin\Debug\TestAppIT.exe
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\bin\Debug\TestAppIT.pdb
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.csprojAssemblyReference.cache
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.Form1.resources
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.Properties.Resources.resources
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.csproj.GenerateResource.cache
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.csproj.CoreCompileInputs.cache
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.exe
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Debug\TestAppIT.pdb

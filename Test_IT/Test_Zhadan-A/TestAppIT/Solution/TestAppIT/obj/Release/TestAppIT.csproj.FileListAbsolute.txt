@@ -1,0 +1,9 @@
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\bin\Release\TestAppIT.exe.config
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\bin\Release\TestAppIT.exe
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\bin\Release\TestAppIT.pdb
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Release\TestAppIT.Form1.resources
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Release\TestAppIT.Properties.Resources.resources
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Release\TestAppIT.csproj.GenerateResource.cache
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Release\TestAppIT.csproj.CoreCompileInputs.cache
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Release\TestAppIT.exe
+H:\C# cesh\Test_IT\TestAppIT\TestAppIT\obj\Release\TestAppIT.pdb
